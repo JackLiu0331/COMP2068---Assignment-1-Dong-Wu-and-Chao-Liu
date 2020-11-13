@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73723db5-1ea1-40b5-a81d-25a9d97afc19" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Pug File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kDi1rmdATeZArBLSANblRP35sI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\19347\WebstormProjects\untitled4\views" />
+      <recent name="C:\Users\19347\WebstormProjects\untitled4\public\stylesheets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73723db5-1ea1-40b5-a81d-25a9d97afc19" name="Default Changelist" comment="" />
+      <created>1605241350987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605241350987</updated>
+      <workItem from="1605241352022" duration="1499000" />
+      <workItem from="1605250119375" duration="754000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="738" y="401" key="Github.ShareDialog" timestamp="1605250547000">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="738" y="401" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605250547000" />
+    <state width="1362" height="227" key="GridCell.Tab.0.bottom" timestamp="1605250878159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605250878159" />
+    <state width="1362" height="227" key="GridCell.Tab.0.center" timestamp="1605250878159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="227" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605250878159" />
+    <state width="1362" height="227" key="GridCell.Tab.0.left" timestamp="1605250878159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="227" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605250878159" />
+    <state width="1362" height="227" key="GridCell.Tab.0.right" timestamp="1605250878159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="227" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605250878159" />
+    <state x="712" y="294" key="svn.repositoryBrowser" timestamp="1605250531409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="712" y="294" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1605250531409" />
+  </component>
+</project>

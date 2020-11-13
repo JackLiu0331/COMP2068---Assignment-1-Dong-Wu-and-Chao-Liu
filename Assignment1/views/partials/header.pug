@@ -1,0 +1,27 @@
+//    File name: header.pug
+//	  Author's name: Chao Liu and Dong Wu
+//	  Description: View for the header page
+doctype html
+//link to css file
+html
+   head
+     title= 'White 55 open'
+     link(rel='stylesheet', href='/stylesheets/style.css')
+     link(rel='stylesheet', href='/stylesheets/bootstrap.min.css')
+body
+     block content
+// Create navigation bar
+nav.navbar.navbar-expand-lg.navbar-dark.bg-dark
+        ul.navbar-nav.mr-auto
+            li.nav-item.active
+                a.nav-link(href='/')
+                    | Home
+                    span.sr-only (current)
+            li.nav-item
+                a.nav-link(href='/about') About
+            li.nav-item
+                a.nav-link(href='/contact') Contact
+            li.nav-item
+                a.nav-link(href='/projects') Projects
+            li.nav-item
+                a.nav-link(href='/services') Services

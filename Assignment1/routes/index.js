@@ -1,25 +1,32 @@
 var express = require('express');
 var router = express.Router();
 
-/* GET home page. */
+//GET home page.
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
+  res.render('index', { title: 'Chao Liu and Dong Wu' });
 });
-
 module.exports = router;
 
-router.get('/layout', function(req, res, next) {
-  res.render('layout', { title: 'Express' });
+//Get about page
+router.get('/about', function (req, res, next) {
+  res.render('about');
 });
+module.exports = router;
 
-router.get('/about', function(req, res, next) {
-  res.render('about', { title: 'Express' });
+//Get products page
+router.get('/projects', function (req, res, next) {
+  res.render('projects');
 });
-router.get('/contact', function(req, res, next) {
-  res.render('contact', { title: 'Express' });
-});
-router.get('/projects', function(req, res, next) {
-  res.render('projects', { title: 'Express' });
-});
+module.exports = router;
 
+//Get services page
+router.get('/services', function (req, res, next) {
+  res.render('services');
+});
+module.exports = router;
+
+//Get contact page
+router.get('/contact', function (req, res, next) {
+  res.render('contact');
+});
 module.exports = router;
